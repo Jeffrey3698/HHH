@@ -1,5 +1,5 @@
 # hiiiiiiiiiii
 
-this is a very cool site
+This is a very cool site
 
 ## heading
